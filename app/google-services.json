@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494583596935",
+    "firebase_url": "https://datafetch-8cdf8.firebaseio.com",
+    "project_id": "datafetch-8cdf8",
+    "storage_bucket": "datafetch-8cdf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494583596935:android:de60527bedd38bdd437522",
+        "android_client_info": {
+          "package_name": "com.example.data_fetch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494583596935-ungnqsjj51tg3jq3ouqhkemnmqhc12an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT99Dsbd2yyNnakfO0WhoR3TMaTfnDQbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494583596935-ungnqsjj51tg3jq3ouqhkemnmqhc12an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
